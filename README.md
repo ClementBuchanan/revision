@@ -22,11 +22,12 @@ Git is a DVCS that stores data in a file system made up of snapshots. Each time 
   - **Import** - 
   - **Cloning** - 
   - **Local repository structure** - 
-  - **Checking the file structure** - 
+  - **Checking the file structure**
   _ **Adding, Commiting and Pushing (ACP) files**
-    - Add: 
-    - Commit:  
-    - Push:
+  
+    - Add: To add a file from the terminal we would use, git add ("filename")
+    - Commit: To commit (save) a file we would use, git commit -m "message"
+    - Push: To push files with changes back to Github we would the command: git push origin (main)
     
   _ **Cloning repositories** - 
   
